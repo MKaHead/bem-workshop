@@ -2,6 +2,7 @@
 
 ## What to do?
 
+1. Make Components that make sense
 1. Make another menu in the sidebar
 1. Make second menu of different color
 1. Place a button in a menu
