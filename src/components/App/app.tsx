@@ -1,5 +1,5 @@
-import React from 'react'
-import './app.scss'
+import React from 'react';
+import './app.scss';
 
 const App: React.FC = () => {
   return (
@@ -23,7 +23,7 @@ const App: React.FC = () => {
         </a>
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default App
+export default App;
